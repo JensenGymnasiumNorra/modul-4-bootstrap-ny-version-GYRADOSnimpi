@@ -1,5 +1,4 @@
 # Webb1 Modul 4 – TODO
-
 ## Uppgift
 
 Din uppgift är att styla sidan med hjälp av Bootstrap. Du har mer frihet i denna uppgift än hamburgar-sidan, vilket innebär att du får lägga till text och taggar. **Du får dock inte använda egen CSS – all styling ska komma från Bootstrap-klasser.**
@@ -22,7 +21,7 @@ Din uppgift är att styla sidan med hjälp av Bootstrap. Du har mer frihet i den
 ---
 
 ## TODO – Uppgifter
-
+2
 - [ ] Styla **header**
 - [ ] Styla **nav**
 - [ ] Styla **footer**
